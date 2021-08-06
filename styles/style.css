@@ -8,6 +8,11 @@ body {
   padding: 0;
 }
 
+/* header styles  */
+header {
+  background-color: #2d25a0;
+}
+
 /* nav styles start */
 nav {
   display: flex;
@@ -16,16 +21,12 @@ nav {
 }
 
 nav a {
-    text-decoration: none;
-    color: #e72323;
-    margin-right: 20px;
+  text-decoration: none;
+  color: #ffffff;
+  margin-right: 20px;
 }
 
 nav div {
-    margin-top: 42px;
-    margin-bottom: 49px;
-    margin-right: 120px;
-    margin-left: 156px;
+  margin-top: 30px;
 }
-/* nav styles end */
 
